@@ -20,7 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Server(后端-nodejs)
+https://github.com/Lee082210/visual-server
 
-项目演示地址：www.data.esyou.top
