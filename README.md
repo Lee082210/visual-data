@@ -1,4 +1,4 @@
-# myapp
+# Visual-Platform
 
 ## Project setup
 ```
